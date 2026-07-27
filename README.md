@@ -37,8 +37,8 @@ When designing transport construction objects and linear structures, drafting sc
 ### Quick Start
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Bargaisl/vkr-autocad-dxf-generator.git
-   cd vkr-autocad-dxf-generator
+   git clone https://github.com/Bargaisl/lkg-generator.git
+   cd lkg-generator
    ```
 2. **Install dependencies:**
    ```bash
@@ -88,8 +88,8 @@ This project is licensed under the [MIT License](LICENSE).
 ### Быстрый запуск
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/Bargaisl/vkr-autocad-dxf-generator.git
-   cd vkr-autocad-dxf-generator
+   git clone https://github.com/Bargaisl/lkg-generator.git
+   cd lkg-generator
    ```
 2. **Установите необходимые зависимости:**
    ```bash
