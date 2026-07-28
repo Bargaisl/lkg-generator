@@ -8,6 +8,16 @@
 
 ## English Version
 
+### Interface & DXF Drawing Output
+
+#### Application Interface (CustomTkinter GUI)
+![Application Interface](assets/gui_preview.png)
+
+#### Generated CAD DXF Construction Schedule Output
+![CAD DXF Output](assets/cad_preview.png)
+
+---
+
 ### Description & Objectives
 Engineering software module in Python designed to automate technological calculations and vector drawing generation of linear construction schedules in `.dxf` format (AutoCAD).
 
@@ -29,6 +39,9 @@ When designing transport construction objects and linear structures, drafting sc
 ### Repository Structure
 ```text
 ├── razdeldetal.py    # Main logic module, calculations, and DXF generation
+├── assets/           # Interface screenshots and CAD output previews
+│   ├── gui_preview.png
+│   └── cad_preview.png
 ├── .gitignore        # Git ignore rules
 ├── LICENSE           # MIT License
 └── README.md         # Documentation
@@ -59,6 +72,16 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Русская версия (Russian Version)
 
+### Интерфейс программы и пример сгенерированного чертежа
+
+#### Графический интерфейс программы (CustomTkinter GUI)
+![Интерфейс программы](assets/gui_preview.png)
+
+#### Чертеж календарного графика в формате CAD DXF
+![Чертеж CAD DXF](assets/cad_preview.png)
+
+---
+
 ### Описание и задачи проекта
 Инженерный программный модуль на Python для автоматизации технологических расчетов и векторной генерации чертежей линейных календарных графиков строительства в формате `.dxf` (AutoCAD).
 
@@ -80,6 +103,9 @@ This project is licensed under the [MIT License](LICENSE).
 ### Структура репозитория
 ```text
 ├── razdeldetal.py    # Основной модуль логики, расчетов и генерации DXF
+├── assets/           # Скриншоты интерфейса и примеры чертежей CAD
+│   ├── gui_preview.png
+│   └── cad_preview.png
 ├── .gitignore        # Исключения временных файлов и сборки
 ├── LICENSE           # Лицензия MIT
 └── README.md         # Техническая документация проекта
